@@ -1,0 +1,56 @@
+.css_imprimir_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_imprimir_grid_line {text-align: center;}
+.css_qr_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_qr_grid_line {vertical-align: middle;text-align: center;}
+.css_container_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_container_grid_line {vertical-align: middle;text-align: center;}
+.css_vessel_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_vessel_grid_line {vertical-align: middle;text-align: center;}
+.css_shippingcompany_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_shippingcompany_grid_line {vertical-align: middle;text-align: center;}
+.css_voyage_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_voyage_grid_line {vertical-align: middle;text-align: center;}
+.css_date_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_date_grid_line {vertical-align: middle;text-align: center;}
+.css_commodity_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_commodity_grid_line {vertical-align: middle;text-align: center;}
+.css_grossweight_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_grossweight_grid_line {vertical-align: middle;text-align: center;}
+.css_tarecontainer_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_tarecontainer_grid_line {vertical-align: middle;text-align: center;}
+.css_tarechassis_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_tarechassis_grid_line {vertical-align: middle;text-align: center;}
+.css_netweight_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_netweight_grid_line {vertical-align: middle;text-align: center;}
+.css_vgm_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_vgm_grid_line {vertical-align: middle;text-align: center;}
+.css_typeoperation_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_typeoperation_grid_line {vertical-align: middle;text-align: center;}
+.css_country_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_country_grid_line {vertical-align: middle;text-align: center;}
+.css_exitticket_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_exitticket_grid_line {vertical-align: middle;text-align: center;}
+.css_inticket_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_inticket_grid_line {vertical-align: middle;text-align: center;}
+.css_licenseplate_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_licenseplate_grid_line {vertical-align: middle;text-align: center;}
+.css_driverslicense_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_driverslicense_grid_line {vertical-align: middle;text-align: center;}
+.css_pilotname_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_pilotname_grid_line {vertical-align: middle;text-align: center;}
+.css_transportname_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_transportname_grid_line {vertical-align: middle;text-align: center;}
+.css_chasis_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_chasis_grid_line {vertical-align: middle;text-align: center;}
+.css_bl_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_bl_grid_line {vertical-align: middle;text-align: center;}
+.css_packages_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_packages_grid_line {vertical-align: middle;text-align: center;}
+.css_machine_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_machine_grid_line {vertical-align: middle;text-align: center;}
+.css_out_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_out_grid_line {vertical-align: middle;text-align: center;}
+.css_in_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_in_grid_line {vertical-align: middle;text-align: center;}
+.css_idweighing_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idweighing_grid_line {vertical-align: top;text-align: right;}

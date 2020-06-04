@@ -1,0 +1,7 @@
+index.php
+CITASPB
+lectura_qr
+SIM
+cons
+lectura_qr
+LigMd5

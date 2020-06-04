@@ -1,0 +1,32 @@
+.css_cita_fechainicio_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_cita_fechainicio_grid_line {vertical-align: top;text-align: center;}
+.css_cabezal_placa_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cabezal_placa_grid_line {vertical-align: top;text-align: right;}
+.css_piloto_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_piloto_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_cita_contenedorimport_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_contenedorimport_grid_line {vertical-align: top;text-align: right;}
+.css_cita_contenedorexport_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_contenedorexport_grid_line {vertical-align: top;text-align: right;}
+.css_naviera_naviera_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_naviera_naviera_grid_line {vertical-align: top;text-align: right;}
+.css_viaje_viaje_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_viaje_viaje_grid_line {vertical-align: top;text-align: right;}
+.css_cita_observaciones_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_observaciones_grid_line {vertical-align: top;text-align: right;}
+.css_cita_atc_ingreso_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_atc_ingreso_grid_line {vertical-align: top;text-align: right;}
+.css_cita_marchamo_ingreso_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_marchamo_ingreso_grid_line {vertical-align: top;text-align: right;}
+.css_cita_atc_despacho_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_atc_despacho_grid_line {vertical-align: top;text-align: right;}
+.css_cita_marchamo_despacho_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_marchamo_despacho_grid_line {vertical-align: top;text-align: right;}
+.css_tipodecarga_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipodecarga_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_yarda_descripcion_yarda_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_yarda_descripcion_yarda_grid_line {vertical-align: top;text-align: right;}
+.css_cita_idcita_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cita_idcita_grid_line {vertical-align: top;text-align: right;}
+.css_cita_codigo_cita_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cita_codigo_cita_grid_line {vertical-align: top;text-align: right;}

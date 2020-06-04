@@ -1,0 +1,66 @@
+.css_codigo_cita_label {text-align:center;width:50px;}
+.css_codigo_cita_line {font-family:Georgia, Times, serif;font-size:16px;color:#CC0000;font-weight:bold;text-align:center;}
+.css_codigo_cita_obj {font-family:Georgia, Times, serif;font-size:16px;color:#CC0000;font-weight:bold;text-align:center;}
+.css_contenedorimport_label {width:150px;}
+.css_contenedorimport_line {width:150px;}
+.css_contenedorimport_obj {width:150px;}
+.css_contenedorexport_label {width:150px;}
+.css_contenedorexport_line {width:150px;}
+.css_contenedorexport_obj {width:150px;}
+.css_fechainicio_label {text-align:center;}
+.css_fechainicio_line {font-family:Georgia, Times, serif;font-size:16px;color:#CC0000;font-weight:bold;text-align:center;}
+.css_fechainicio_obj {font-family:Georgia, Times, serif;font-size:16px;color:#CC0000;font-weight:bold;text-align:center;}
+.css_chasis_label {width:150px;}
+.css_chasis_line {width:150px;}
+.css_chasis_obj {width:150px;}
+.css_idnaviera_label {width:150px;}
+.css_idnaviera_line {text-align:left;width:150px;}
+.css_idnaviera_obj {text-align:left;width:150px;}
+.css_idtipodecarga_label {width:150px;}
+.css_idtipodecarga_line {text-align:left;width:150px;}
+.css_idtipodecarga_obj {text-align:left;width:150px;}
+.css_idestado_label { }
+.css_idestado_line {text-align:left;}
+.css_idestado_obj {text-align:left;}
+.css_idpiloto_label {width:150px;}
+.css_idpiloto_line {text-align:left;width:150px;}
+.css_idpiloto_obj {text-align:left;width:150px;}
+.css_idcabezal_label {width:135px;}
+.css_idcabezal_line {text-align:left;width:135px;}
+.css_idcabezal_obj {text-align:left;width:135px;}
+.css_idselectivo_label {width:175px;}
+.css_idselectivo_line {text-align:left;width:175px;}
+.css_idselectivo_obj {text-align:left;width:175px;}
+.css_idyarda_label { }
+.css_idyarda_line {text-align:left;}
+.css_idyarda_obj {text-align:left;}
+.css_idtipomovimiento_label { }
+.css_idtipomovimiento_line {text-align:left;}
+.css_idtipomovimiento_obj {text-align:left;}
+.css_idviaje_label { }
+.css_idviaje_line {text-align:left;}
+.css_idviaje_obj {text-align:left;}
+.css_atc_ingreso_label { }
+.css_atc_ingreso_line { }
+.css_atc_ingreso_obj { }
+.css_marchamo_ingreso_label { }
+.css_marchamo_ingreso_line { }
+.css_marchamo_ingreso_obj { }
+.css_atc_despacho_label { }
+.css_atc_despacho_line { }
+.css_atc_despacho_obj { }
+.css_marchamo_despacho_label { }
+.css_marchamo_despacho_line { }
+.css_marchamo_despacho_obj { }
+.css_sec_users_login_label { }
+.css_sec_users_login_line { }
+.css_sec_users_login_obj { }
+.css_turno_label { }
+.css_turno_line {text-align:left;}
+.css_turno_obj {text-align:left;}
+.css_piloto_label {width:350px;}
+.css_piloto_line {width:350px;}
+.css_piloto_obj {width:350px;}
+.css_tipo_qr_label { }
+.css_tipo_qr_line { }
+.css_tipo_qr_obj { }

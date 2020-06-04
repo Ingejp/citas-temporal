@@ -1,0 +1,53 @@
+.css_rev_codigo_revision_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_rev_codigo_revision_grid_line {vertical-align: middle;text-align: center;}
+.css_rev_fecha_solicitud_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_rev_fecha_solicitud_grid_line {vertical-align: top;text-align: center;}
+.css_rev_contenedor_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rev_contenedor_grid_line {vertical-align: top;text-align: right;}
+.css_cab_placa_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cab_placa_grid_line {vertical-align: top;text-align: right;}
+.css_maga_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_maga_grid_line {vertical-align: middle;text-align: center;}
+.css_sgaia_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_sgaia_grid_line {vertical-align: middle;text-align: center;}
+.css_sat_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_sat_grid_line {vertical-align: middle;text-align: center;}
+.css_dipa_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dipa_grid_line {vertical-align: middle;text-align: center;}
+.css_ucc_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ucc_grid_line {vertical-align: middle;text-align: center;}
+.css_consig_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_consig_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_cont_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cont_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_est_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_est_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_med_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_med_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_nav_naviera_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nav_naviera_grid_line {vertical-align: top;text-align: right;}
+.css_buq_buque_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_buq_buque_grid_line {vertical-align: top;text-align: right;}
+.css_ramp_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ramp_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_sel_selectivo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sel_selectivo_grid_line {vertical-align: top;text-align: right;}
+.css_rev_bl_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rev_bl_grid_line {vertical-align: top;text-align: right;}
+.css_tcar_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tcar_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_gest_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_gest_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_termo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_termo_grid_line {vertical-align: top;text-align: right;}
+.css_rev_porcentaje_intrusion_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_rev_porcentaje_intrusion_grid_line {vertical-align: top;text-align: right;}
+.css_oper_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_oper_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_tmov_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tmov_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_rev_cantidad_por_bl_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_rev_cantidad_por_bl_grid_line {vertical-align: top;text-align: right;}
+.css_rev_observaciones_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rev_observaciones_grid_line {vertical-align: top;text-align: right;}
+.css_bitacora_revisiones_grid_line {text-align: center;}

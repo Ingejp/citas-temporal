@@ -1,0 +1,12 @@
+.css_turno_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_turno_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_estatus_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estatus_grid_line {vertical-align: top;text-align: right;}
+.css_estadias_horas_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_estadias_horas_grid_line {vertical-align: top;text-align: center;}
+.css_observaciones_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observaciones_grid_line {vertical-align: top;text-align: right;}
+.css_idbitacora_revision_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idbitacora_revision_grid_line {vertical-align: top;text-align: right;}

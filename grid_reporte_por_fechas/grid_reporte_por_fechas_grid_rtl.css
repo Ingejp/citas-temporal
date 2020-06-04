@@ -1,0 +1,12 @@
+.css_turno_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_turno_grid_line {vertical-align: top;text-align: right;}
+.css_idcita_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idcita_grid_line {vertical-align: top;text-align: right;}
+.css_codigo_cita_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_cita_grid_line {vertical-align: top;text-align: right;}
+.css_contenedorimport_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contenedorimport_grid_line {vertical-align: top;text-align: right;}
+.css_contenedorexport_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contenedorexport_grid_line {vertical-align: top;text-align: right;}
+.css_observaciones_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observaciones_grid_line {vertical-align: top;text-align: right;}

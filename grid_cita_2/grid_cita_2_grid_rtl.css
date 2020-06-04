@@ -1,0 +1,12 @@
+.css_idcita_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idcita_grid_line {vertical-align: top;text-align: right;}
+.css_codigo_cita_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_cita_grid_line {vertical-align: top;text-align: right;}
+.css_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descripcion_grid_line {vertical-align: top;text-align: right;}
+.css_fechainicio_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fechainicio_grid_line {vertical-align: top;text-align: center;}
+.css_fechafin_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fechafin_grid_line {vertical-align: top;text-align: center;}
+.css_horainicio_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_horainicio_grid_line {vertical-align: top;text-align: center;}

@@ -1,0 +1,48 @@
+.css_id_condicion_label {text-align:;}
+.css_id_condicion_line {text-align:left;}
+.css_id_condicion_obj {text-align:left;}
+.css_fecha_label {text-align:right;}
+.css_fecha_line {font-size:14px;color:#3300FF;font-weight:bold;text-align:center;}
+.css_fecha_obj {font-size:14px;color:#3300FF;font-weight:bold;text-align:center;}
+.css_observaciones_label { }
+.css_observaciones_line { }
+.css_observaciones_obj { }
+.css_cable_label { }
+.css_cable_line { }
+.css_cable_obj { }
+.css_firma_label { }
+.css_firma_line { }
+.css_firma_obj { }
+.css_plug_label { }
+.css_plug_line { }
+.css_plug_obj { }
+.css_idnaviera_label { }
+.css_idnaviera_line {text-align:left;}
+.css_idnaviera_obj {text-align:left;}
+.css_idyarda_label { }
+.css_idyarda_line {text-align:left;}
+.css_idyarda_obj {text-align:left;}
+.css_numero_contenedor_label {text-align:right;}
+.css_numero_contenedor_line {text-align:left;}
+.css_numero_contenedor_obj {text-align:left;}
+.css_idcabezal_label {text-align:right;}
+.css_idcabezal_line {text-align:left;}
+.css_idcabezal_obj {text-align:left;}
+.css_sec_users_login_label { }
+.css_sec_users_login_line { }
+.css_sec_users_login_obj { }
+.css_tipomovimiento_idtipomovimiento_label { }
+.css_tipomovimiento_idtipomovimiento_line {text-align:left;}
+.css_tipomovimiento_idtipomovimiento_obj {text-align:left;}
+.css_idtransporte_label { }
+.css_idtransporte_line {text-align:left;}
+.css_idtransporte_obj {text-align:left;}
+.css_medida_label { }
+.css_medida_line {text-align:left;}
+.css_medida_obj {text-align:left;}
+.css_idpiloto_label {text-align:right;}
+.css_idpiloto_line {text-align:left;}
+.css_idpiloto_obj {text-align:left;}
+.css_picture_label { }
+.css_picture_line { }
+.css_picture_obj { }

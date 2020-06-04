@@ -1,0 +1,57 @@
+.css_turno_label { }
+.css_turno_line {width:150px;}
+.css_turno_obj {width:150px;}
+.css_contenedor_label { }
+.css_contenedor_line {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_contenedor_obj {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_cliente_label {width:250px;}
+.css_cliente_line {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_cliente_obj {font-size:14px;color:#0000FF;font-weight:bold;width:250px;}
+.css_estatus_label {width:230px;}
+.css_estatus_line {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_estatus_obj {font-size:14px;color:#0000FF;font-weight:bold;width:230px;}
+.css_rampa_label { }
+.css_rampa_line {width:170px;}
+.css_rampa_obj {width:170px;}
+.css_nuevo_estatus_label { }
+.css_nuevo_estatus_line { }
+.css_nuevo_estatus_obj { }
+.css_ubicacion_label { }
+.css_ubicacion_line {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_ubicacion_obj {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_fac_revision_label { }
+.css_fac_revision_line {width:150px;}
+.css_fac_revision_obj {width:150px;}
+.css_fac_acople_label { }
+.css_fac_acople_line {width:150px;}
+.css_fac_acople_obj {width:150px;}
+.css_telefonos_label { }
+.css_telefonos_line {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_telefonos_obj {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_observaciones_label {width:350px;}
+.css_observaciones_line {width:365px;}
+.css_observaciones_obj {width:365px;}
+.css_nombre_label {width:250px;}
+.css_nombre_line {font-size:14px;color:#0000FF;font-weight:bold;}
+.css_nombre_obj {font-size:14px;color:#0000FF;font-weight:bold;width:250px;}
+.css_placa_label { }
+.css_placa_line {width:150px;}
+.css_placa_obj {width:150px;}
+.css_intrusion_label { }
+.css_intrusion_line {width:150px;}
+.css_intrusion_obj {width:150px;}
+.css_sc_field_0_label { }
+.css_sc_field_0_line {width:150px;}
+.css_sc_field_0_obj {width:150px;}
+.css_sc_field_1_label { }
+.css_sc_field_1_line {width:150px;}
+.css_sc_field_1_obj {width:150px;}
+.css_operador_label { }
+.css_operador_line {width:365px;}
+.css_operador_obj {width:365px;}
+.css_codigo_label { }
+.css_codigo_line { }
+.css_codigo_obj { }
+.css_tipo_revision_label { }
+.css_tipo_revision_line { }
+.css_tipo_revision_obj { }

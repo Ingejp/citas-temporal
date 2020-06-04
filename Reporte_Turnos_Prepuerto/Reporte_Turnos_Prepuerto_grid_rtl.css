@@ -1,0 +1,20 @@
+.css_turno_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_turno_grid_line {vertical-align: top;text-align: right;}
+.css_cit_codigo_cita_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cit_codigo_cita_grid_line {vertical-align: top;text-align: right;}
+.css_cab_placa_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cab_placa_grid_line {vertical-align: top;text-align: right;}
+.css_piloto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_piloto_grid_line {vertical-align: top;text-align: right;}
+.css_cit_contenedorimport_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cit_contenedorimport_grid_line {vertical-align: top;text-align: right;}
+.css_cit_contenedorexport_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cit_contenedorexport_grid_line {vertical-align: top;text-align: right;}
+.css_tipo_carga_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_carga_grid_line {vertical-align: top;text-align: right;}
+.css_nav_naviera_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nav_naviera_grid_line {vertical-align: top;text-align: right;}
+.css_cit_fechainicio_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_cit_fechainicio_grid_line {vertical-align: top;text-align: center;}
+.css_cit_observaciones_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cit_observaciones_grid_line {vertical-align: top;text-align: right;}
